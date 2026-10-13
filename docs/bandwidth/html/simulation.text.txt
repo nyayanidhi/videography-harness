@@ -1,0 +1,234 @@
+Skip to product details
+Product
+Industries
+SOP Library
+Legal Workspace
+Simulation
+Meet Rilin
+BUSINESS SIMULATION / POWERED BY NOMOS
+Set the goal.
+Simulate your way there.
+
+Explore tax, restructuring, acquisitions and new business models with the legal environment built into each iteration. Bring the feedback together so you can make the decision.
+
+Bring a business decision
+See it at work
+For founders, promoters and leaders who need to explore what is possible.
+r.
+Simulation / A business decision
+Illustrative model
+01 / SET THE GOAL
+Restructure the business
+
+Separate a new activity without disrupting existing operations.
+
+02 / ITERATE WITH FEEDBACK
+Iteration 01
+Create a separate subsidiary
+LEGAL CONDITIONS
+Financing consent missing
+BUSINESS EFFECTS
+Ownership and operating scope change
+Explore the next iteration
+Inspect the basis
+Legal, financial and operating effects in the same decision.
+Concept walkthrough · no live legal or tax computation is performed here.
+BRING ORDER. MAKE ROOM FOR JUDGEMENT.
+RILIN / BUSINESS SIMULATION
+01
+MORE ROOM TO MAKE THE RIGHT MOVE
+The decision is yours.
+Explore it at business scale.
+
+A serious business change crosses tax, legal, finance and compliance. Repeated rounds of specialist analysis make each alternative expensive to explore. A reusable company model brings those consequences into the same decision environment.
+
+EXPLORE
+01
+Ask a bigger question.
+
+How could we restructure? What would an acquisition change? Can this new business model work?
+
+ITERATE
+02
+See what the proposal needs.
+
+Identify a missing condition, change a term or revise the sequence. Evaluate the next version against the model.
+
+DECIDE
+03
+Use your judgement on the alternatives.
+
+Compare the combined effects and unresolved conditions. Choose the direction with the consequences in view.
+
+02
+A GOAL. A PROPOSAL. USEFUL FEEDBACK.
+You know where you want to go.
+Work through the possibilities.
+
+Start with the business outcome. Explore alternative structures and sequences, with the model surfacing the domain conditions each depends on. Keep refining toward a viable plan.
+
+r.
+Simulation / A business decision
+Illustrative model
+01 / SET THE GOAL
+Restructure the business
+
+Separate a new activity without disrupting existing operations.
+
+02 / ITERATE WITH FEEDBACK
+Iteration 01
+Create a separate subsidiary
+LEGAL CONDITIONS
+Financing consent missing
+BUSINESS EFFECTS
+Ownership and operating scope change
+Explore the next iteration
+Inspect the basis
+Legal, financial and operating effects in the same decision.
+Concept walkthrough · no live legal or tax computation is performed here.
+03
+DECISIONS THAT CHANGE THE COMPANY
+Tax. Structure. People.
+Entire ways of doing business.
+
+Use the same represented business to explore different questions. Legal, financial and operating dimensions remain connected as each proposal changes the model.
+
+01
+Tax planning
+
+Compare structures, transaction timing and their modelled tax and cash effects.
+
+02
+Corporate restructuring
+
+Explore entity, ownership and asset changes with their conditions and dependencies.
+
+03
+M&A and due diligence
+
+Compare acquisition structures and revise the transaction around diligence findings.
+
+04
+Operations and headcount
+
+Assess location, staffing and operating-model changes against the relevant obligations.
+
+05
+New markets and models
+
+Test a new industry entry, revenue model or commercial arrangement.
+
+06
+Law changes and risk
+
+Reassess the business under a changed rule environment or an explicit risk scenario.
+
+04
+AN ENVIRONMENT YOU CAN INSPECT
+Computed consequences.
+A basis you can examine.
+
+NOMOS is designed to represent the business, its instruments and its legal environment as an executable model. Proposed changes can be checked against formalised conditions, and their effects computed from stated inputs.
+
+Within that model, the same inputs produce the same computed effects. Lean provides the foundation for checkable reasoning. Sources, assumptions and unmodelled questions stay visible alongside the result.
+
+Formal checks establish what follows within the represented rules and facts. Forecasts, unresolved interpretations and real-world outcomes remain explicit assumptions or open questions.
+
+r.
+NOMOS / The basis of a result
+Illustrative product demo
+PROPOSED CHANGE TO THE COMPANY
+Move an activity into a subsidiary.
+01
+Represented state
+Entities, assets, instruments and recorded facts
+02
+Applicable environment
+Formalised rules, interpretations and effective dates
+03
+Entry conditions
+Authority, approvals and required consents
+04
+Computed effects
+The changes implied by the operation and its inputs
+Unresolved facts and conditions remain explicit.
+Conceptual proof structure · not an executed proof
+05
+BUILD ON THE COMPANY YOU HAVE MODELLED
+The next question
+starts further ahead.
+
+Build and validate the company model once for the scope at hand. Reuse its instruments, rules and dependencies across further scenarios.
+
+The economic promise is in repeated exploration: less reconstruction for each alternative and a clearer comparison of what changes.
+
+r.
+A reusable decision environment
+Illustrative product demo
+01
+ESTABLISH THE BASELINE
+Represent your business
+
+Connect governing instruments, current state and the legal scope being modelled.
+
+02
+VALIDATE THE MODEL
+Check it against known cases
+
+Review the represented facts and compare outputs with established positions.
+
+03
+REUSE THE UNDERSTANDING
+Explore another option
+
+Fork the represented state, vary the proposal and compare the resulting worlds.
+
+Each iteration reuses the established model, with changes and assumptions recorded.
+06
+FROM A POSSIBLE WORLD TO ACTUAL WORK
+Choose the direction.
+Carry it into the company.
+
+Turn a selected proposal into its required approvals, filings, agreements and operating tasks. Connect the decision to the processes that put it into effect.
+
+PREPARE
+01
+Make the conditions actionable.
+
+Record the required approvals, unresolved questions and dependencies before execution.
+
+EXECUTE
+02
+Run the work across teams.
+
+Connect the selected course to Legal, Finance, Compliance and Operations through their SOPs.
+
+UPDATE
+03
+Bring the model forward.
+
+Completed actions and verified records update the represented company for its next decision.
+
+Connect decisions to execution
+YOUR JUDGEMENT. A WIDER FIELD OF POSSIBILITIES.
+Bring the decision
+you want to explore.
+
+A restructuring. An acquisition. A different business model. Establish the scope and model the alternatives.
+
+Discuss a simulation engagement
+Explore company knowledge
+
+Bring order.
+Make room for judgement.
+
+Legal Workspace
+Processes
+Knowledge
+Compliance
+Risk Monitoring
+Simulation
+Industries
+SOP Library
+© 2026 Rilin
+Product concept · Demonstrations use illustrative records and scenarios.

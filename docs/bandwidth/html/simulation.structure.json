@@ -1,0 +1,564 @@
+{
+ "h": 6899,
+ "sections": [
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-hero product-hero-simulation",
+   "box": [
+    0,
+    0,
+    1920,
+    956
+   ],
+   "h": [
+    "H1: Set the goal. / Simulate your way there.",
+    "H3: Create a separate subsidiary"
+   ]
+  },
+  {
+   "tag": "HEADER",
+   "id": "",
+   "cls": "site-header product-header",
+   "box": [
+    304,
+    0,
+    1312,
+    88
+   ],
+   "h": []
+  },
+  {
+   "tag": "SECTION",
+   "id": "explore",
+   "cls": "product-wide  story-dark",
+   "box": [
+    0,
+    956,
+    1920,
+    718
+   ],
+   "h": [
+    "H2: The decision is yours. / Explore it at business scale.",
+    "H3: Ask a bigger question.",
+    "H3: See what the proposal needs.",
+    "H3: Use your judgement on the alternatives."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-wide  ",
+   "box": [
+    0,
+    1674,
+    1920,
+    1130
+   ],
+   "h": [
+    "H2: You know where you want to go. / Work through the possibilities.",
+    "H3: Create a separate subsidiary"
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-wide story-tint ",
+   "box": [
+    0,
+    2803,
+    1920,
+    913
+   ],
+   "h": [
+    "H2: Tax. Structure. People. / Entire ways of doing business.",
+    "H3: Tax planning",
+    "H3: Corporate restructuring",
+    "H3: M&A and due diligence",
+    "H3: Operations and headcount",
+    "H3: New markets and models",
+    "H3: Law changes and risk"
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-story ",
+   "box": [
+    0,
+    3717,
+    1920,
+    875
+   ],
+   "h": [
+    "H2: Computed consequences. / A basis you can examine.",
+    "H3: Move an activity into a subsidiary."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-story story-tint",
+   "box": [
+    0,
+    4592,
+    1920,
+    748
+   ],
+   "h": [
+    "H2: The next question / starts further ahead."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-wide  ",
+   "box": [
+    0,
+    5340,
+    1920,
+    743
+   ],
+   "h": [
+    "H2: Choose the direction. / Carry it into the company.",
+    "H3: Make the conditions actionable.",
+    "H3: Run the work across teams.",
+    "H3: Bring the model forward."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-cta",
+   "box": [
+    0,
+    6082,
+    1920,
+    535
+   ],
+   "h": [
+    "H2: Bring the decision / you want to explore."
+   ]
+  },
+  {
+   "tag": "FOOTER",
+   "id": "",
+   "cls": "product-footer",
+   "box": [
+    0,
+    6617,
+    1920,
+    282
+   ],
+   "h": []
+  }
+ ],
+ "inter": [
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "skip-link",
+   "txt": "Skip to product details",
+   "href": "#explore",
+   "state": null,
+   "box": [
+    10,
+    -63,
+    217,
+    49
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "brand",
+   "txt": "Rilin home",
+   "href": "/",
+   "state": null,
+   "box": [
+    304,
+    29,
+    97,
+    30
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "products-trigger",
+   "txt": "Product",
+   "href": null,
+   "state": "closed",
+   "box": [
+    853,
+    25,
+    77,
+    38
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "products-trigger",
+   "txt": "Industries",
+   "href": null,
+   "state": "closed",
+   "box": [
+    963,
+    25,
+    91,
+    38
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "SOP Library",
+   "href": "/sops",
+   "state": null,
+   "box": [
+    1087,
+    33,
+    80,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "nav-legal-direct",
+   "txt": "Legal Workspace",
+   "href": "/product/legal-workspace",
+   "state": null,
+   "box": [
+    1200,
+    33,
+    118,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Simulation",
+   "href": "/product/simulation",
+   "state": null,
+   "box": [
+    1351,
+    33,
+    72,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "button header-cta",
+   "txt": "Meet Rilin",
+   "href": "https://www.rilin.ai/demo",
+   "state": null,
+   "box": [
+    1477,
+    18,
+    139,
+    50
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "mobile-menu",
+   "txt": "Open navigation",
+   "href": null,
+   "state": "closed",
+   "box": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "button light",
+   "txt": "Bring a business decision",
+   "href": "https://www.rilin.ai/demo",
+   "state": null,
+   "box": [
+    320,
+    676,
+    250,
+    50
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "text-link",
+   "txt": "See it at work",
+   "href": "#explore",
+   "state": null,
+   "box": [
+    595,
+    690,
+    122,
+    22
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "combobox",
+   "cls": "flex w-fit items-center justify-between gap-2 rounded-md border border-input bg-",
+   "txt": "Restructure the business",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1027,
+    305,
+    550,
+    40
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "button dark",
+   "txt": "Explore the next iteration",
+   "href": null,
+   "state": null,
+   "box": [
+    1027,
+    654,
+    208,
+    39
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "text-toggle",
+   "txt": "Inspect the basis",
+   "href": null,
+   "state": null,
+   "box": [
+    1251,
+    655,
+    102,
+    36
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "combobox",
+   "cls": "flex w-fit items-center justify-between gap-2 rounded-md border border-input bg-",
+   "txt": "Restructure the business",
+   "href": null,
+   "state": "closed",
+   "box": [
+    349,
+    2225,
+    441,
+    48
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "button dark",
+   "txt": "Explore the next iteration",
+   "href": null,
+   "state": null,
+   "box": [
+    851,
+    2505,
+    245,
+    50
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "text-toggle",
+   "txt": "Inspect the basis",
+   "href": null,
+   "state": null,
+   "box": [
+    1119,
+    2512,
+    119,
+    36
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "story-link",
+   "txt": "Connect decisions to execution",
+   "href": "/product/processes",
+   "state": null,
+   "box": [
+    835,
+    5949,
+    250,
+    21
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "button light",
+   "txt": "Discuss a simulation engagement",
+   "href": "https://www.rilin.ai/demo",
+   "state": null,
+   "box": [
+    320,
+    6469,
+    306,
+    50
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "text-link",
+   "txt": "Explore company knowledge",
+   "href": "/product/knowledge",
+   "state": null,
+   "box": [
+    656,
+    6483,
+    229,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Rilin home",
+   "href": "/",
+   "state": null,
+   "box": [
+    320,
+    6664,
+    110,
+    30
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Legal Workspace",
+   "href": "/product/legal-workspace",
+   "state": null,
+   "box": [
+    1033,
+    6664,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Processes",
+   "href": "/product/processes",
+   "state": null,
+   "box": [
+    1331,
+    6664,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Knowledge",
+   "href": "/product/knowledge",
+   "state": null,
+   "box": [
+    1033,
+    6698,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Compliance",
+   "href": "/product/compliance",
+   "state": null,
+   "box": [
+    1331,
+    6698,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Risk Monitoring",
+   "href": "/product/risk-monitoring",
+   "state": null,
+   "box": [
+    1033,
+    6732,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Simulation",
+   "href": "/product/simulation",
+   "state": null,
+   "box": [
+    1331,
+    6732,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Industries",
+   "href": "/industries",
+   "state": null,
+   "box": [
+    1033,
+    6765,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "SOP Library",
+   "href": "/sops",
+   "state": null,
+   "box": [
+    1331,
+    6765,
+    269,
+    22
+   ]
+  }
+ ]
+}

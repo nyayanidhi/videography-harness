@@ -1,0 +1,30 @@
+{
+  "name": "videography-harness",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render Launch out/nyayanidhi-launch.mp4",
+    "still": "remotion still Launch out/still.png",
+    "room:still": "remotion still RilinRoom out/room/still.png --gl=angle",
+    "room:timeline": "esbuild tools/export-timeline.ts --bundle --platform=node --format=esm --outfile=out/room/export.mjs --log-level=error && node out/room/export.mjs out/room/timeline.json",
+    "room:probe": "esbuild tools/motion-probe.ts --bundle --platform=node --format=esm --outfile=out/room/probe.mjs --log-level=error && node out/room/probe.mjs",
+    "room:score": "npm run room:timeline && python3.11 sound/room/score.py out/room/timeline.json public/room/score.wav",
+    "room:render": "remotion render RilinRoom out/rilin-room.mp4 --gl=angle --concurrency=1 --props='{\"samples\":16,\"audio\":true}' --crf=14 --audio-codec=aac --audio-bitrate=320k"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.1.2",
+    "@remotion/cli": "4.0.534",
+    "@remotion/google-fonts": "4.0.534",
+    "@remotion/paths": "^4.0.534",
+    "@remotion/three": "^4.0.534",
+    "@types/three": "^0.170.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.534",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}

@@ -1,0 +1,35 @@
+{
+ "src": "sound/library/mixkit/music/mixkit-720_new-bass-01_lily-j.mp3",
+ "out": "sound/library/edits/edit60_new-bass-01_mixkit-720.wav",
+ "dur": 60.0,
+ "target_lufs": -16,
+ "segments": [
+  {
+   "at": 0.0,
+   "from": 6.886,
+   "len": 48.381,
+   "fi": 1.0,
+   "fo": 0.04
+  },
+  {
+   "at": 48.381,
+   "from": 15.267,
+   "len": 3.81,
+   "fi": 0.04,
+   "fo": 0.03,
+   "gain_db": 5
+  }
+ ],
+ "ring": {
+  "at": 52.19,
+  "from": 22.886,
+  "len": 0.95,
+  "fo": 0.6,
+  "rt60": 6.0,
+  "wet_db": 3
+ },
+ "fade_end": [
+  57.0,
+  59.8
+ ]
+}

@@ -1,0 +1,973 @@
+{
+ "h": 7449,
+ "sections": [
+  {
+   "tag": "SECTION",
+   "id": "top",
+   "cls": "hero",
+   "box": [
+    0,
+    0,
+    1920,
+    798
+   ],
+   "h": [
+    "H1: Agentic processes / to unlock bandwidth."
+   ]
+  },
+  {
+   "tag": "HEADER",
+   "id": "",
+   "cls": "site-header product-header",
+   "box": [
+    304,
+    0,
+    1312,
+    88
+   ],
+   "h": []
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "mission",
+   "box": [
+    0,
+    798,
+    1920,
+    94
+   ],
+   "h": []
+  },
+  {
+   "tag": "SECTION",
+   "id": "coordination",
+   "cls": "section problem",
+   "box": [
+    0,
+    892,
+    1920,
+    669
+   ],
+   "h": [
+    "H2: Your team is working. / You’re still chasing."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "workflows",
+   "cls": "section workflows",
+   "box": [
+    0,
+    1561,
+    1920,
+    1245
+   ],
+   "h": [
+    "H2: See what comes / off your plate.",
+    "H3: The deal moves. / You keep your standards."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "your-process",
+   "cls": "section customisation",
+   "box": [
+    0,
+    2806,
+    1920,
+    932
+   ],
+   "h": [
+    "H2: You know how it should work. / Make that the process."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "connected-work",
+   "cls": "section collaboration",
+   "box": [
+    0,
+    3738,
+    1920,
+    954
+   ],
+   "h": [
+    "H2: A sign-off is someone / else’s starting point.",
+    "H3: Supplier / agreement",
+    "H3: Confirm the supplier’s commitment"
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "simulation",
+   "cls": "section simulation",
+   "box": [
+    0,
+    4692,
+    1920,
+    1431
+   ],
+   "h": [
+    "H2: Before you make a move, / see what it sets in motion."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "trust",
+   "cls": "section trust",
+   "box": [
+    0,
+    6123,
+    1920,
+    701
+   ],
+   "h": [
+    "H2: Your judgement / stays at the centre.",
+    "H3: You set the boundaries.",
+    "H3: The source stays with the work.",
+    "H3: Decisions leave a trail."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "closing",
+   "box": [
+    0,
+    6825,
+    1920,
+    434
+   ],
+   "h": [
+    "H2: Offload the chaos. / Make room for your best work."
+   ]
+  },
+  {
+   "tag": "FOOTER",
+   "id": "",
+   "cls": "",
+   "box": [
+    0,
+    7259,
+    1920,
+    191
+   ],
+   "h": []
+  }
+ ],
+ "inter": [
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "skip-link",
+   "txt": "Skip to workflows",
+   "href": "#workflows",
+   "state": null,
+   "box": [
+    10,
+    -63,
+    178,
+    49
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "brand",
+   "txt": "Rilin home",
+   "href": "/",
+   "state": null,
+   "box": [
+    304,
+    29,
+    97,
+    30
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "products-trigger",
+   "txt": "Product",
+   "href": null,
+   "state": "closed",
+   "box": [
+    854,
+    25,
+    77,
+    38
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "products-trigger",
+   "txt": "Industries",
+   "href": null,
+   "state": "closed",
+   "box": [
+    964,
+    25,
+    91,
+    38
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "SOP Library",
+   "href": "/sops",
+   "state": null,
+   "box": [
+    1088,
+    33,
+    80,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "nav-legal-direct",
+   "txt": "Legal Workspace",
+   "href": "/product/legal-workspace",
+   "state": null,
+   "box": [
+    1201,
+    33,
+    118,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Simulation",
+   "href": "/product/simulation",
+   "state": null,
+   "box": [
+    1352,
+    33,
+    72,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "button header-cta",
+   "txt": "Meet Rilin",
+   "href": "https://www.rilin.ai/demo",
+   "state": null,
+   "box": [
+    1478,
+    23,
+    138,
+    42
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "mobile-menu",
+   "txt": "Open navigation",
+   "href": null,
+   "state": "closed",
+   "box": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "button light",
+   "txt": "Explore the workflows",
+   "href": "#workflows",
+   "state": null,
+   "box": [
+    360,
+    561,
+    233,
+    50
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "text-link",
+   "txt": "See what’s ahead",
+   "href": "#simulation",
+   "state": null,
+   "box": [
+    624,
+    575,
+    149,
+    22
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "button dark",
+   "txt": "Bring it into order",
+   "href": null,
+   "state": null,
+   "box": [
+    360,
+    1381,
+    199,
+    50
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Legal",
+   "href": null,
+   "state": "true",
+   "box": [
+    360,
+    1880,
+    62,
+    58
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Finance",
+   "href": null,
+   "state": "false",
+   "box": [
+    440,
+    1880,
+    93,
+    58
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Procurement",
+   "href": null,
+   "state": "false",
+   "box": [
+    551,
+    1880,
+    130,
+    58
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Operations",
+   "href": null,
+   "state": "false",
+   "box": [
+    699,
+    1880,
+    116,
+    58
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Sales",
+   "href": null,
+   "state": "false",
+   "box": [
+    833,
+    1880,
+    74,
+    58
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Leadership",
+   "href": null,
+   "state": "false",
+   "box": [
+    925,
+    1880,
+    116,
+    58
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "text-link dark-link",
+   "txt": "Make this process yours",
+   "href": "#your-process",
+   "state": null,
+   "box": [
+    360,
+    2400,
+    196,
+    22
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "workflow-step finished ",
+   "txt": "Request received",
+   "href": null,
+   "state": null,
+   "box": [
+    675,
+    2095,
+    207,
+    17
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "workflow-step finished ",
+   "txt": "Playbook applied",
+   "href": null,
+   "state": null,
+   "box": [
+    895,
+    2095,
+    207,
+    17
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "workflow-step  selected",
+   "txt": "3 | Internal review",
+   "href": null,
+   "state": null,
+   "box": [
+    1115,
+    2095,
+    207,
+    17
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "workflow-step  ",
+   "txt": "4 | Ready for signature",
+   "href": null,
+   "state": null,
+   "box": [
+    1335,
+    2095,
+    207,
+    17
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "button demo-action ",
+   "txt": "Approve for signature",
+   "href": null,
+   "state": null,
+   "box": [
+    1179,
+    2495,
+    361,
+    44
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "active",
+   "txt": "Weekly team updates",
+   "href": null,
+   "state": "true",
+   "box": [
+    394,
+    3184,
+    147,
+    31
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "",
+   "txt": "Vendor onboarding",
+   "href": null,
+   "state": "false",
+   "box": [
+    548,
+    3184,
+    134,
+    31
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "",
+   "txt": "Collect filing inputs",
+   "href": null,
+   "state": "false",
+   "box": [
+    689,
+    3184,
+    133,
+    31
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "button dark",
+   "txt": "Process created",
+   "href": null,
+   "state": null,
+   "box": [
+    752,
+    3495,
+    174,
+    46
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "edit-button",
+   "txt": "Edit",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1488,
+    3155,
+    43,
+    22
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "switch",
+   "cls": "peer group/switch inline-flex shrink-0 items-center rounded-full border border-t",
+   "txt": "on",
+   "href": null,
+   "state": "true",
+   "box": [
+    1505,
+    3520,
+    26,
+    15
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "active",
+   "txt": "01 | Procurement",
+   "href": null,
+   "state": "true",
+   "box": [
+    708,
+    4095,
+    271,
+    60
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "",
+   "txt": "02 | Operations",
+   "href": null,
+   "state": "false",
+   "box": [
+    979,
+    4095,
+    271,
+    60
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "",
+   "txt": "03 | Finance",
+   "href": null,
+   "state": "false",
+   "box": [
+    1251,
+    4095,
+    271,
+    60
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "",
+   "txt": "Try the handoff",
+   "href": null,
+   "state": null,
+   "box": [
+    1387,
+    4449,
+    118,
+    22
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Risk cascades",
+   "href": null,
+   "state": "true",
+   "box": [
+    360,
+    5049,
+    115,
+    54
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "People + agents",
+   "href": null,
+   "state": "false",
+   "box": [
+    496,
+    5049,
+    125,
+    54
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Tax planning",
+   "href": null,
+   "state": "false",
+   "box": [
+    642,
+    5049,
+    100,
+    54
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Restructuring",
+   "href": null,
+   "state": "false",
+   "box": [
+    763,
+    5049,
+    109,
+    54
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Supply dependencies",
+   "href": null,
+   "state": "false",
+   "box": [
+    893,
+    5049,
+    165,
+    54
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Due diligence",
+   "href": null,
+   "state": "false",
+   "box": [
+    1078,
+    5049,
+    108,
+    54
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "concentration active",
+   "txt": "01 | Supplier dependency | 42% of critical supply",
+   "href": null,
+   "state": "true",
+   "box": [
+    382,
+    5275,
+    212,
+    85
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "concentration ",
+   "txt": "02 | Customer concentration | 31% of receivables",
+   "href": null,
+   "state": "false",
+   "box": [
+    382,
+    5365,
+    212,
+    93
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "concentration ",
+   "txt": "03 | Shared guarantee | 2 facilities, one guarantor",
+   "href": null,
+   "state": "false",
+   "box": [
+    382,
+    5463,
+    212,
+    85
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "button simulate-button ",
+   "txt": "Simulate disruption",
+   "href": null,
+   "state": null,
+   "box": [
+    382,
+    5649,
+    212,
+    48
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "risk-target selected",
+   "txt": "TX-014 | Project North | Installation milestone",
+   "href": null,
+   "state": "true",
+   "box": [
+    1207,
+    5279,
+    294,
+    79
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "risk-target ",
+   "txt": "TX-021 | Project East | Commissioning payment",
+   "href": null,
+   "state": "false",
+   "box": [
+    1207,
+    5375,
+    294,
+    79
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "risk-target ",
+   "txt": "TX-027 | Equipment lease | Acceptance date",
+   "href": null,
+   "state": "false",
+   "box": [
+    1207,
+    5471,
+    294,
+    79
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "risk-target ",
+   "txt": "TX-032 | Project West | Delivery-linked payment",
+   "href": null,
+   "state": "false",
+   "box": [
+    1207,
+    5567,
+    294,
+    79
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "text-link dark-link",
+   "txt": "Explore the legal workspace",
+   "href": "/product/legal-workspace",
+   "state": null,
+   "box": [
+    360,
+    6560,
+    223,
+    22
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "flex flex-1 items-start justify-between gap-4 rounded-md py-4 text-left text-sm ",
+   "txt": "You set the boundaries.",
+   "href": null,
+   "state": "open",
+   "box": [
+    1013,
+    6240,
+    548,
+    68
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "flex flex-1 items-start justify-between gap-4 rounded-md py-4 text-left text-sm ",
+   "txt": "The source stays with the work.",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1013,
+    6576,
+    548,
+    68
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "flex flex-1 items-start justify-between gap-4 rounded-md py-4 text-left text-sm ",
+   "txt": "Decisions leave a trail.",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1013,
+    6645,
+    548,
+    68
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "button light",
+   "txt": "Find your first process",
+   "href": "#workflows",
+   "state": null,
+   "box": [
+    360,
+    7114,
+    235,
+    50
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "text-link",
+   "txt": "Build with Rilin",
+   "href": "https://www.rilin.ai/demo",
+   "state": null,
+   "box": [
+    626,
+    7128,
+    128,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Rilin home",
+   "href": "#",
+   "state": null,
+   "box": [
+    360,
+    7311,
+    96,
+    30
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Product",
+   "href": "/product",
+   "state": null,
+   "box": [
+    1318,
+    7317,
+    47,
+    19
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Simulation",
+   "href": "/product/simulation",
+   "state": null,
+   "box": [
+    1395,
+    7317,
+    62,
+    19
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Talk to us",
+   "href": "https://www.rilin.ai/demo",
+   "state": null,
+   "box": [
+    1487,
+    7317,
+    73,
+    19
+   ]
+  }
+ ]
+}

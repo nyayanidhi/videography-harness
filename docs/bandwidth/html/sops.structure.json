@@ -1,0 +1,1076 @@
+{
+ "h": 4617,
+ "sections": [
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "industry-nav-shell",
+   "box": [
+    0,
+    0,
+    1920,
+    88
+   ],
+   "h": []
+  },
+  {
+   "tag": "HEADER",
+   "id": "",
+   "cls": "site-header product-header",
+   "box": [
+    304,
+    0,
+    1312,
+    88
+   ],
+   "h": []
+  },
+  {
+   "tag": "SECTION",
+   "id": "sop-library",
+   "cls": "sop-library full-library",
+   "box": [
+    0,
+    88,
+    1920,
+    4247
+   ],
+   "h": [
+    "H1: Find the process. / Get the bandwidth back.",
+    "H3: Keep DPR assumptions tied to sanction decisions",
+    "H3: Carry sanctioned scope into the EPC tender",
+    "H3: Clear workfront access with parcel evidence",
+    "H3: Review contractor programme against available fronts",
+    "H3: Review stage payments with supporting tests",
+    "H3: Close engineer findings with a witnessed retest",
+    "H3: Resolve conflicting progress before owner reporting",
+    "H3: Decide scope changes from design and cost options",
+    "H3: Separate defects from completion certificate decisions",
+    "H3: Release the right drawings to each workfront",
+    "H3: Resolve multidisciplinary design interface clashes"
+   ]
+  },
+  {
+   "tag": "FOOTER",
+   "id": "",
+   "cls": "product-footer",
+   "box": [
+    0,
+    4335,
+    1920,
+    282
+   ],
+   "h": []
+  }
+ ],
+ "inter": [
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "brand",
+   "txt": "Rilin home",
+   "href": "/",
+   "state": null,
+   "box": [
+    304,
+    29,
+    97,
+    30
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "products-trigger",
+   "txt": "Product",
+   "href": null,
+   "state": "closed",
+   "box": [
+    854,
+    25,
+    77,
+    38
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "products-trigger",
+   "txt": "Industries",
+   "href": null,
+   "state": "closed",
+   "box": [
+    964,
+    25,
+    91,
+    38
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "SOP Library",
+   "href": "/sops",
+   "state": null,
+   "box": [
+    1088,
+    33,
+    80,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "nav-legal-direct",
+   "txt": "Legal Workspace",
+   "href": "/product/legal-workspace",
+   "state": null,
+   "box": [
+    1201,
+    33,
+    118,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Simulation",
+   "href": "/product/simulation",
+   "state": null,
+   "box": [
+    1352,
+    33,
+    72,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "button header-cta",
+   "txt": "Meet Rilin",
+   "href": "https://www.rilin.ai/demo",
+   "state": null,
+   "box": [
+    1478,
+    23,
+    138,
+    42
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "mobile-menu",
+   "txt": "Open navigation",
+   "href": null,
+   "state": "closed",
+   "box": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "tag": "INPUT",
+   "role": null,
+   "cls": "",
+   "txt": "Search SOPs",
+   "href": null,
+   "state": null,
+   "box": [
+    367,
+    454,
+    812,
+    24
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "combobox",
+   "cls": "flex w-fit items-center justify-between gap-2 rounded-md border border-input bg-",
+   "txt": "All teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1208,
+    441,
+    190,
+    49
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "combobox",
+   "cls": "flex w-fit items-center justify-between gap-2 rounded-md border border-input bg-",
+   "txt": "All industries",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1410,
+    441,
+    190,
+    49
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "All work",
+   "href": null,
+   "state": "true",
+   "box": [
+    324,
+    529,
+    73,
+    33
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Individual",
+   "href": null,
+   "state": "false",
+   "box": [
+    399,
+    529,
+    103,
+    33
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Collaborative",
+   "href": null,
+   "state": "false",
+   "box": [
+    504,
+    529,
+    127,
+    33
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    347,
+    633,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    634,
+    944,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    780,
+    633,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1067,
+    944,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    1212,
+    633,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1499,
+    944,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    347,
+    1066,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    634,
+    1404,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    780,
+    1066,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1067,
+    1404,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    1212,
+    1066,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1499,
+    1404,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    347,
+    1526,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    634,
+    1837,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    780,
+    1526,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1067,
+    1837,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    1212,
+    1526,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1499,
+    1837,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    347,
+    1959,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    634,
+    2270,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    780,
+    1959,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1067,
+    2270,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    1212,
+    1959,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1499,
+    2270,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    347,
+    2393,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    634,
+    2704,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    780,
+    2393,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1067,
+    2704,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    1212,
+    2393,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1499,
+    2704,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    347,
+    2826,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "Within team",
+   "href": null,
+   "state": "closed",
+   "box": [
+    643,
+    3137,
+    66,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    780,
+    2826,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1067,
+    3137,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    1212,
+    2826,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1499,
+    3137,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    347,
+    3259,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    634,
+    3570,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    780,
+    3259,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1067,
+    3570,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    1212,
+    3259,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1499,
+    3570,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    347,
+    3693,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    634,
+    4004,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    780,
+    3693,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1067,
+    4004,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "sop-industry-label",
+   "txt": "Energy & infrastructure",
+   "href": "/industries/energy-infrastructure",
+   "state": null,
+   "box": [
+    1212,
+    3693,
+    154,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "sop-people-button",
+   "txt": "+1 | Across teams",
+   "href": null,
+   "state": "closed",
+   "box": [
+    1499,
+    4004,
+    76,
+    56
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "button dark",
+   "txt": "Show more processes | +24",
+   "href": null,
+   "state": null,
+   "box": [
+    841,
+    4116,
+    239,
+    50
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Rilin home",
+   "href": "/",
+   "state": null,
+   "box": [
+    320,
+    4382,
+    110,
+    30
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Legal Workspace",
+   "href": "/product/legal-workspace",
+   "state": null,
+   "box": [
+    1033,
+    4382,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Processes",
+   "href": "/product/processes",
+   "state": null,
+   "box": [
+    1331,
+    4382,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Knowledge",
+   "href": "/product/knowledge",
+   "state": null,
+   "box": [
+    1033,
+    4416,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Compliance",
+   "href": "/product/compliance",
+   "state": null,
+   "box": [
+    1331,
+    4416,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Risk Monitoring",
+   "href": "/product/risk-monitoring",
+   "state": null,
+   "box": [
+    1033,
+    4450,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Simulation",
+   "href": "/product/simulation",
+   "state": null,
+   "box": [
+    1331,
+    4450,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Industries",
+   "href": "/industries",
+   "state": null,
+   "box": [
+    1033,
+    4483,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "SOP Library",
+   "href": "/sops",
+   "state": null,
+   "box": [
+    1331,
+    4483,
+    269,
+    22
+   ]
+  }
+ ]
+}

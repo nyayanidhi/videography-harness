@@ -1,0 +1,115 @@
+{
+ "lib": "sound/library",
+ "bed": "edits/edit60_your-breath_mixkit-634.wav",
+ "bed_db": 0,
+ "target_lufs": -15,
+ "out": "sound/library/edits/preview_your-breath_with-sfx.wav",
+ "cues": [
+  {
+   "file": "kenney/ui-tick_kenney-interface-tick_002.wav",
+   "t": 1.0,
+   "db": -16
+  },
+  {
+   "file": "kenney/ui-glass_kenney-interface-glass_002.wav",
+   "t": 1.25,
+   "db": -18
+  },
+  {
+   "file": "mixkit/sfx/rocket-build_engine-ignition-rumble_mixkit-1715.wav",
+   "t": 16.0,
+   "sync": 10.42,
+   "db": -10
+  },
+  {
+   "file": "mixkit/sfx/riser-short_trailer_mixkit-790.wav",
+   "t": 16.0,
+   "sync": 2.18,
+   "db": -8
+  },
+  {
+   "file": "mixkit/sfx/impact_intro-presentation_mixkit-2902.wav",
+   "t": 16.0,
+   "sync": 1.4,
+   "db": -6
+  },
+  {
+   "file": "mixkit/sfx/rocket-launch_ignition-flames_mixkit-1725.wav",
+   "t": 16.0,
+   "sync": 0.72,
+   "db": -9
+  },
+  {
+   "file": "mixkit/sfx/rocket-launch_fast-rocket-whoosh_mixkit-1714.wav",
+   "t": 16.3,
+   "sync": 0.89,
+   "db": -6
+  },
+  {
+   "file": "mixkit/sfx/whoosh-passby_futuristic-sweep_mixkit-169.wav",
+   "t": 24.0,
+   "sync": 0.77,
+   "db": -12,
+   "pan": -0.3
+  },
+  {
+   "file": "kenney/ui-select_kenney-interface-select_001.wav",
+   "t": 24.5,
+   "db": -16
+  },
+  {
+   "file": "mixkit/sfx/whoosh_wind-sweep_mixkit-2632.wav",
+   "t": 30.0,
+   "sync": 0.42,
+   "db": -12,
+   "pan": 0.3
+  },
+  {
+   "file": "mixkit/sfx/ui-option_interface-select_mixkit-2573.wav",
+   "t": 30.5,
+   "db": -16
+  },
+  {
+   "file": "mixkit/sfx/whoosh-passby_futuristic-sweep_mixkit-169.wav",
+   "t": 36.0,
+   "sync": 0.77,
+   "db": -12,
+   "pan": 0.3
+  },
+  {
+   "file": "kenney/ui-glass_kenney-interface-glass_002.wav",
+   "t": 36.5,
+   "db": -16
+  },
+  {
+   "file": "mixkit/sfx/whoosh_flying-fast-swoosh_mixkit-1469.wav",
+   "t": 42.0,
+   "sync": 0.36,
+   "db": -12,
+   "pan": -0.3
+  },
+  {
+   "file": "mixkit/sfx/hit-bass_short-bass-hit_mixkit-2299.wav",
+   "t": 44.0,
+   "db": -14
+  },
+  {
+   "file": "mixkit/sfx/whoosh_long-air-swoosh_mixkit-167.wav",
+   "t": 48.0,
+   "sync": 0.8,
+   "db": -12
+  },
+  {
+   "file": "mixkit/sfx/impact-logo_movie-logo-intro_mixkit-2900.wav",
+   "t": 52.0,
+   "sync": 3.98,
+   "db": -6
+  },
+  {
+   "file": "mixkit/sfx/impact-sub_space-impact_mixkit-774.wav",
+   "t": 52.0,
+   "sync": 0.04,
+   "db": -8
+  }
+ ]
+}

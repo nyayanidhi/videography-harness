@@ -1,0 +1,540 @@
+Product
+Solutions
+Industries
+Services
+Resources
+Sign In
+Get a Demo
+
+CONTRACTUAL LIABILITY CONTROL FOR ENTERPRISES
+
+Bridging the gap between contracts and real business actions.
+Get a Demo
+Sign In
+Lawyers show up at the start and at the end,
+Rilin runs everything in between.
+
+DAY 1
+
+CONTRACT EXECUTED
+
+DAY N
+
+LITIGATION INITIATED
+
+LIABILITY EXPOSURE
+
+NOTICE WINDOW
+
+PAYMENT DUE
+
+RENEWAL DEADLINE
+
+TERMINATION RIGHT
+
+A business doesn't run on a legal document. It runs on actions.
+
+Rilin breaks each transaction that includes one or more contracts into business actions: Owned, assigned, tracked. Every action maps back to the clause it satisfies.
+
+CONTRACT
+
+Master Services Agreement
+
+→ 12 material clauses
+
+CONTRACT
+
+Master Services Agreement
+
+→ 12 material clauses
+
+TRANSACTION
+
+ACTIVE
+
+IT Vendor Onboarding
+
+ID:TXN-2026-014
+
+→ 4 core obligations
+
+Submit certificate of insurance
+
+FINANCE
+
+CLAUSE 7.2
+
+Within 30 Days Of Execution
+
+Remediate Critical vulnerabilities
+
+INFOSEC
+
+CLAUSE 11.4
+
+Within 48 Hours Of Discovery
+
+Issue formal SLA credit report
+
+DELIVERY
+
+CLAUSE 4.3
+
+Within 10 Business Days Of Month-End
+
+Provide written notice of non-renewal
+
+LEGAL OPS
+
+CLAUSE 9.5
+
+Atleast 90 Days Prior To Term End
+
+Four operations, one work surface.
+Risk Surfacing
+
+Exposure mapped across every contract, continuously.
+
+Exposure - Contract Stack
+
+LIVE
+
+Acme Corp
+
+MSA
+
+CRITICAL
+
+0.92
+
+Globex
+
+SLA
+
+CAUTION
+
+0.42
+
+Initech
+
+NDA
+
+STANDARD
+
+0.15
+
+Specialist counsel
+
+Empanelled counsel, loaded with full contract context
+
+Adv. Ajit Belliappa
+
+Specialist Counsel
+
+Employment Law
+
+Matter
+
+Non-compete enforceability
+
+Contract
+
+MSA-2026-014
+
+Consult Counsel
+
+Draft and Review
+
+Every new agreement drafted, reviewed and analysed in one place
+
+Master-services-agreement.docx
+
+7. CONFIDENTIALITY
+
+7.1 The Parties acknowledge that, during the term of this Agreement, each Party may receive confidential and proprietary information.
+
+7.2 Each Party shall protect such Confidential Information using the same degree of care it uses to protect its own.
+
+7.3 Neither Party shall disclose Confidential Information to any third party except as expressly permitted.
+
+8. INDEMNITY
+
+8.1 Supplier shall indemnify, defend and hold Customer harmless from and against any third-party claims.
+
+8.2 Supplier may, in its sole discretion, maintain cybersecurity insurance coverage for an amount not exceeding ₹50,00,000.
+
+8.3 Notwithstanding the foregoing, neither Party shall be liable for indirect, incidental or consequential loss arising under this Agreement.
+
+9. LIMITATION OF LIABILITY
+
+9.1 Each Party's aggregate liability under this Agreement shall not exceed the total fees paid in the preceding twelve (12) months.
+
+9.2 Nothing in this Agreement shall exclude or limit either Party's liability for fraud or wilful misconduct.
+
+10. TERM AND TERMINATION
+
+10.1 This Agreement shall remain in force until terminated by either Party in accordance with the notice provisions set out herein.
+
+CLAUSE 8.2
+
+REDLINE
+
+Supplier may, in its sole discretion, maintain cybersecurity insurance coverage for an amount
+
+- not exceeding ₹50,00,000
+
++ not exceeding ₹75,00,000
+
+Implement changes →
+
+Obligation Tracking
+
+Every commitment held as a live register
+
+Obligation
+
+Submit certificate of insurance
+
+Remediate Critical vulnerabilities
+
+Issue formal SLA credit report
+
+Owner
+
+Finance
+
+Legal Ops
+
+Delivery
+
+Due
+
+Apr 12
+
+May 03
+
+Mar 28
+
+Status
+
+DUE
+
+UPCOMING
+
+DONE
+
+A Pan-India legal operation, behind every action.
+
+Counsel, clerks, despatch operations, and senior representation — coordinated across India's courts and tribunals so every matter moves on time, in the right place, and with the right hand on the file.
+
+Know more
+
+Counsel who review and sign
+
+Senior lawyers read every material output before it leaves the building. They sign pleadings where the statute requires a Bar Council member. They appear at tribunal when the matter proceeds to hearing.
+
+Clerks for procedural compliance
+
+Legal-process staff handle filing mechanics. They track procedural deadlines, draft compliance affidavits, and clear the documentation gates that void a proceeding when missed.
+
+Operations from despatch to diary
+
+Speed post and registered post despatch. Certificate-of-posting management. Email delivery with logged proof. Court filing, diarising, and procedural follow-up.
+
+Legal representation from senior counsel
+
+When a matter proceeds to hearing, we get senior counsel to represent you. DRT applications, SARFAESI trials, summary suits. We brief them, fund them, and review the work.
+
+Ask Rilin anything, know what impacts your business
+
+Upload any contract and agreement. Rilin identifies the risk. surfaces affected obligations, and recommends the next actions
+
+Organisational memory for legal risk
+
+Every legal matter becomes searchable institutional knowledge, connecting new issues to past disputes, vendors, contracts, and obligations.
+
+Upload anything. Ask anything.
+
+NDA, MSA, Employment agreement, contractor agreement, and sales agreement.
+
+Know the business impact immediately
+
+See exposure, obligations, deadlines, stakeholders, and next actions without hunting for where to start.
+
+Built For everyone
+
+Get answers on risk, obligations, options, and business impact. No legal research, no waiting for a memo.
+
+T
+
+Have we worked with Apex Logistics before?
+
+Yes. Apex Logistics appears in 4 prior matters across the organisation.
+
+Related Organisational Records
+
+Apex Logistics appears in 4 prior legal and commercial matters across the organisation.
+
+Vendor Master Services Agreement (2024)
+Delayed Shipment Dispute (March 2025)
+Insurance Coverage Review (June 2025)
+Data Processing Addendum (October 2025)
+
+Key Observations
+
+The limitation of liability clause in the current agreement is materially identical to a clause previously negotiated and accepted.
+The March 2025 dispute involved missed delivery SLAs and resulted in a commercial settlement.
+Procurement previously approved a risk exception relating to subcontractor usage.
+
+T
+
+FIR.pdf
+
+Document
+
+Vendor Threat Email
+
+Document
+
+What does this mean for us?
+
+Documents Reviewed
+
+FIR
+
+A criminal complaint has been filed naming a third-party contractor associated with your operations.
+
+Current Exposure: No direct allegations against your organisation identified.
+
+Vendor Threat Email
+
+The vendor alleges breach of contract and reserves the right to pursue legal remedies if payment remains outstanding.
+
+Primary Concern: Escalation into a formal contractual dispute.
+
+Recommended Actions
+
+Legal team to review the FIR and assess potential downstream exposure.
+Compliance team to prepare a regulatory response before the stated deadline.
+Finance and Procurement teams to assess disputed invoices and contractual obligations.
+
+T
+
+Can we terminate this vendor before renewal?
+
+Based on Clause 9.5 of the Master Services Agreement, the contract may be terminated through non-renewal by providing written notice at least 90 days before the expiry date.
+
+The current agreement is scheduled to expire on 12 September 2026, which means the notice window closes on 14 June 2026.
+
+Before proceeding, consider any active obligations, outstanding invoices, and transition requirements that may survive termination.
+
+Specialist Counsel Recommendation
+
+→ The contract language appears enforceable. However, if termination is being considered due to performance concerns, counsel should review any dispute-resolution, cure-period, and indemnity provisions before notice is issued.
+
+T
+
+Supplier may, in its sole discretion, maintain cybersecurity insurance coverage for an amount not exceeding ₹50,00,000.
+
+Can you explain this clause?
+
+What This Means
+
+The supplier is allowed, but not required, to maintain cybersecurity insurance
+
+The clause does not guarantee that insurance coverage exists.
+
+Even if the supplier chooses to obtain insurance, the maximum coverage contemplated under this clause is ₹50,00,000.
+
+Before proceeding, consider any active obligations, outstanding invoices, and transition requirements that may survive termination.
+
+Business Impact
+
+Your Risk
+
+If a cybersecurity incident occurs, there is no contractual assurance that insurance proceeds will be available to cover losses.
+
+What it looks like from where you sit.
+For Leadership
+
+Rilin sits across your contract stack like a preventive health check.
+
+ANALYTICS
+
+LIVE
+
+Approve Weekly Quantities
+
+4 operations at risk
+
+OVERDUE
+
+Conduct shipment arrival
+
+For Finance and Ops teams
+
+Every material contract is broken into business actions assigned to specific people
+
+BAKER SUPPLY ACTIONS
+
+14 TOTAL
+
+Approve weekly quantities
+
+Priya Nair
+
+DUE IN 3 DAYS
+
+Conduct shipment arrival
+
+Rohan Jha
+
+DUE IN 5 DAYS
+
+Verify June invoice
+
+Priya Nair
+
+DUE IN 5 DAYS
+
+For Legal teams
+
+Draft, review, and specialist counsel sit in one platform.
+
+Master-services-agreement.docx
+
+7. CONFIDENTIALITY
+
+7.1 The Parties acknowledge that, during the term of this Agreement, each Party may receive confidential and proprietary information.
+
+7.2 Each Party shall protect such Confidential Information using the same degree of care it uses to protect its own.
+
+7.3 Neither Party shall disclose Confidential Information to any third party except as expressly permitted.
+
+8. INDEMNITY
+
+8.1 Supplier shall indemnify, defend and hold Customer harmless from and against any third-party claims.
+
+8.2 Supplier may, in its sole discretion, maintain cybersecurity insurance coverage for an amount not exceeding ₹50,00,000.
+
+8.3 Notwithstanding the foregoing, neither Party shall be liable for indirect, incidental or consequential loss arising under this Agreement.
+
+9. LIMITATION OF LIABILITY
+
+9.1 Each Party's aggregate liability under this Agreement shall not exceed the total fees paid in the preceding twelve (12) months.
+
+9.2 Nothing in this Agreement shall exclude or limit either Party's liability for fraud or wilful misconduct.
+
+10. TERM AND TERMINATION
+
+10.1 This Agreement shall remain in force until terminated by either Party in accordance with the notice provisions set out herein.
+
+Built for the most sensitive documents you hold.
+
+Rilin handles signed contracts with the controls enterprise security, finance and legal teams require.
+
+End-to-end encryption
+
+Your contracts are encrypted in transit and at rest.
+
+Role-based access
+
+Every action scoped to a person and logged. Least-privilege by default.
+
+Data residency
+
+Hosted in India or the region your policy requires.
+
+Full audit trail
+
+Every read, edit and escalation recorded, and exportable on demand.
+
+Signing trail
+
+Who signed, approved and amended each contract, with timestamps.
+
+Tenant isolation
+
+Your data is never co-mingled with another organisation's.
+
+Your contracts are never used to train models.
+
+Tenant-Isolated · No Model Training · Your Data Stays Yours
+
+Frequently asked questions
+
+Have a question that needs a human to answer? No problem.
+
+Talk to us
+What is Rilin?
+Rilin is a contractual liability control platform. It turns signed contracts into operational objects that can be owned, tracked, and executed.
+What happens after a contract is signed?
+Rilin turns it into a Transaction. Every obligation is extracted, assigned to an owner, given a deadline, and tracked. Each action maps back to the clause it satisfies.
+What does Rilin track?
+Obligations, deadlines, ownership, and execution status across every material contract. Continuously.
+Who uses Rilin?
+Any enterprise with regular contractual transactions. Leadership, finance, and legal teams use Rilin to track obligations, assign ownership, and surface risk across their contract stack.
+Does Rilin replace outside counsel?
+No. Rilin does not replace counsel. If needed, empanelled specialist counsel can be engaged through the platform with full contract context already loaded.
+Does Rilin replace our CLM?
+No. A CLM manages the contract lifecycle. Rilin manages what the contract requires after it is signed. They solve different problems.
+
+The contracts are already signed.
+
+Do you know what they say?
+
+Get a Demo
+Sign In
+
+Rilin is a contractual liability control platform. It turns signed contracts into operational objects that can be owned, tracked, and executed.
+
+© 2026 Suvarna Nyayanidhi Private Limited
+
+PRODUCT
+
+Draft
+Review
+E-sign & E-stamp
+Obligations & Risk
+Transactions & Assignment
+Document Vault
+
+SELF-SERVE
+
+Small & Medium Sized Businesses
+Creators & Freelancers
+
+TEAMS
+
+Leadership
+Legal
+Finance
+Operations & Procurement
+
+COMPANY
+
+Managed Services
+Resources
+Contract templates
+
+INDUSTRIES
+
+Supply chain
+Manufacturing
+Fintech
+BFSI
+AI-native
+Startup
+E-commerce
+Real estate & Infrastructure
+Health & Pharma
+Energy & Renewables
+
+LEGAL
+
+Privacy policy
+Terms of service
+
+SUPPORT
+
+Contact Us

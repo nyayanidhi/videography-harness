@@ -1,0 +1,253 @@
+Product
+Industries
+SOP Library
+Legal Workspace
+Simulation
+Meet Rilin
+THE SOP LIBRARY
+Find the process.
+Get the bandwidth back.
+
+From your own desk to work across departments. Start with a process, then make it yours.
+
+All teams
+All industries
+All work
+Individual
+Collaborative
+299 processes
+Energy & infrastructure
+Keep DPR assumptions tied to sanction decisions
+
+Link surveys, geotechnical findings, demand or generation assumptions, land status, estimates and approvals to the DPR revision. Project leadership can answer sanction queries with the basis of each cost and scope decision.
+
+OWNED BY
+Owner Project Development
++1
+Across teams
+Energy & infrastructure
+Carry sanctioned scope into the EPC tender
+
+Translate sanctioned design, interfaces, exclusions, cost assumptions and approval conditions into tender schedules and evaluation queries. Flag bid qualifications for the owner to resolve before award commitments become execution constraints.
+
+OWNED BY
+Owner Project Development
++1
+Across teams
+Energy & infrastructure
+Clear workfront access with parcel evidence
+
+Match acquisition, utility relocation, forest or other permission status and handover memoranda to the planned chainage or workfront. The owner can prioritise blocked parcels and issue accurate access records to its engineer and contractor.
+
+OWNED BY
+Owner Project Development
++1
+Across teams
+Energy & infrastructure
+Review contractor programme against available fronts
+
+Compare the contractor’s baseline and updates with actual access, design approvals, interface dates and milestones. The PMO can challenge infeasible logic and decide mitigation without treating a schedule change as an approved extension.
+
+OWNED BY
+Owner PMO & Engineer
++1
+Across teams
+Energy & infrastructure
+Review stage payments with supporting tests
+
+For road EPC contracts using stage weightages, align the contractor’s completed-stage statement with Schedule-H, progress and test records. The Authority’s Engineer determines the certificate and records reasons for deductions before the owner pays.
+
+OWNED BY
+Owner PMO & Engineer
++1
+Across teams
+Energy & infrastructure
+Close engineer findings with a witnessed retest
+
+Tie each independent engineer or technical-audit finding to the exact location, test failure, contractor rectification and reinspection request. The engineer verifies closure; owner PMO sees whether payment, milestone or acceptance remains affected.
+
+OWNED BY
+Owner PMO & Engineer
++1
+Across teams
+Energy & infrastructure
+Resolve conflicting progress before owner reporting
+
+Reconcile contractor progress, independently inspected work, current schedule and unresolved NCRs by location and package. PMO can explain divergence and decide intervention before reporting physical completion or escalating a milestone risk.
+
+OWNED BY
+Owner PMO & Engineer
++1
+Across teams
+Energy & infrastructure
+Decide scope changes from design and cost options
+
+Connect the proposed instruction, revised design, quantities, rates and schedule options with contract authority. The owner can issue or reject a formal change-of-scope order with its engineer’s review, limiting unapproved cost exposure.
+
+OWNED BY
+Owner PMO & Engineer
++1
+Across teams
+Energy & infrastructure
+Separate defects from completion certificate decisions
+
+Bring test results, open defects, safety work and contractor submissions to the appointed engineer’s completion review. The owner sees which works need rectification while the engineer retains the professional certification decision.
+
+OWNED BY
+Owner PMO & Engineer
++1
+Across teams
+Energy & infrastructure
+Release the right drawings to each workfront
+
+Reconcile latest approved-for-construction drawings, review comments, superseded versions and transmittal acknowledgements by work package. Engineers can stop fabrication or installation based on obsolete design and document the authorised revision.
+
+OWNED BY
+Engineering & Document Control
++1
+Across teams
+Energy & infrastructure
+Resolve multidisciplinary design interface clashes
+
+Bring civil, electrical, mechanical and vendor drawings together with site constraints and unresolved RFIs. Discipline leads decide the fix and issue coordinated revisions before conflicting details reach construction.
+
+OWNED BY
+Engineering & Document Control
+Across teams
+Energy & infrastructure
+Turn approved changes into controlled drawings
+
+Trace a client instruction or engineering change through calculations, BOQ impact, revised drawings and transmittals. Commercial and site receive the approved basis for work while the design lead retains technical sign-off.
+
+OWNED BY
+Engineering & Document Control
++1
+Across teams
+Energy & infrastructure
+Clear vendor drawings before manufacture
+
+Join PO specifications, datasheets, interface comments and vendor submissions to the current design register. Engineering decides deviations and confirms which revision the supplier may manufacture against, reducing rework and rejected equipment.
+
+OWNED BY
+Engineering & Document Control
++1
+Across teams
+Energy & infrastructure
+Release long-lead equipment against approved design
+
+Bring approved datasheets, vendor drawings, inspection plan, PO amendments and target workfront together before dispatch. Procurement can escalate design or inspection holds to the right specialist before a costly shipment moves.
+
+OWNED BY
+Procurement & Expediting
++1
+Across teams
+Energy & infrastructure
+Expose package dates at risk from supplier changes
+
+Tie manufacturing milestones, inspection bookings, logistics documents and promised delivery to the construction need date. The expeditor can pursue a credible recovery plan while project controls assesses actual schedule impact.
+
+OWNED BY
+Procurement & Expediting
++1
+Across teams
+Energy & infrastructure
+Bring workfront constraints out of daily site reports
+
+Combine daily labour, plant, weather, instructions and blocked fronts with the lookahead programme. Site leads decide recovery actions and assign an owner to each constraint while preserving the contemporaneous record.
+
+OWNED BY
+Project Controls & Site
+Within team
+Energy & infrastructure
+Make access delays usable in schedule review
+
+Join site handover records, affected fronts, daily evidence and the current critical path. A planner tests overlap and mitigation before commercial staff assess any contract notice or extension position.
+
+OWNED BY
+Project Controls & Site
++1
+Across teams
+Energy & infrastructure
+Update programme from verified field progress
+
+Compare reported activity completion with measured/inspected work and remaining quantities before updating the schedule data date. Planning can explain variance and choose a recovery sequence without rewriting the approved baseline.
+
+OWNED BY
+Project Controls & Site
+Across teams
+Energy & infrastructure
+Trace site instructions into cost and design
+
+Register oral or written field directions against design revision, scope, labour and actual work performed. Site can obtain the proper written disposition and warn commercial before a disputed instruction spreads across packages.
+
+OWNED BY
+Project Controls & Site
++1
+Across teams
+Energy & infrastructure
+Keep test holds off the next workfront
+
+Tie inspection requests, test results, hold points and NCR closure to the lookahead plan. Construction managers can resequence work and get QA clearance before covering or commissioning work.
+
+OWNED BY
+Project Controls & Site
+Across teams
+Energy & infrastructure
+Catch measured work before the billing cut-off
+
+For item-rate contracts, match executed quantities, joint measurements, accepted test records and BOQ classification. QS can challenge omissions and submit only supportable work in the next on-account application.
+
+OWNED BY
+Quantity Surveying & Client Billing
++1
+Across teams
+Energy & infrastructure
+Claim completed EPC stages with the required evidence
+
+For stage-based road EPC, connect Schedule-H weightages, completed stages, progress reports and supporting tests to the monthly statement. Billing can resolve gaps before submission; the Authority’s Engineer decides the certified amount.
+
+OWNED BY
+Quantity Surveying & Client Billing
++1
+Across teams
+Energy & infrastructure
+Resolve engineer-certified bill deductions
+
+Trace the submitted application to interim certificate, excluded stages or quantities, rate treatment, advances and recoveries. Commercial can isolate documentary corrections from genuine disputes and pursue the remaining balance.
+
+OWNED BY
+Quantity Surveying & Client Billing
++1
+Across teams
+Energy & infrastructure
+Keep approved variations visible in the next claim
+
+Map signed change orders or instructed extra items to executed work, agreed rate or valuation basis and billing schedule. QS can claim eligible amounts while separately tracking proposed or disputed changes.
+
+OWNED BY
+Quantity Surveying & Client Billing
++1
+Across teams
+Show more processes
++24
+
+Showing 24 of 299
+
+Owner
+People in the same team
+Participating teams
+Team filters include ownership and participation.
+
+Bring order.
+Make room for judgement.
+
+Legal Workspace
+Processes
+Knowledge
+Compliance
+Risk Monitoring
+Simulation
+Industries
+SOP Library
+© 2026 Rilin
+Product concept · Demonstrations use illustrative records and scenarios.

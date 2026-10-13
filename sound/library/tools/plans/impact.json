@@ -1,0 +1,33 @@
+{
+ "src": "sound/library/incompetech/impact-allegretto_kevin-macleod.mp3",
+ "out": "sound/library/edits/edit60_impact-allegretto_incompetech.wav",
+ "dur": 60.0,
+ "target_lufs": -16,
+ "segments": [
+  {
+   "at": 1.99,
+   "from": 0.0,
+   "len": 46.01,
+   "fi": 0.005,
+   "fo": 0.04
+  },
+  {
+   "at": 48.0,
+   "from": 26.01,
+   "len": 4.0,
+   "fi": 0.04,
+   "fo": 0.03
+  },
+  {
+   "at": 52.0,
+   "from": 168.0,
+   "len": 8.0,
+   "fi": 0.03,
+   "fo": 0.0
+  }
+ ],
+ "fade_end": [
+  58.5,
+  59.8
+ ]
+}

@@ -1,0 +1,304 @@
+Skip to workflows
+Product
+Industries
+SOP Library
+Legal Workspace
+Simulation
+Meet Rilin
+YOUR JUDGEMENT. MORE ROOM TO USE IT.
+Agentic processes
+to unlock bandwidth.
+
+Offload coordination chaos with agents that create tasks, follow up, collate information and reconcile task status across teams.
+
+Explore the workflows
+See what’s ahead
+Your people. Your processes. In capable hands.
+FOLLOW-THROUGH, TAKEN CARE OF
+
+Update received. Next step assigned.
+
+ORDER / 01 — ∞
+Bring order. Reduce risk.
+From the next task to your next business decision.
+↗
+01
+THE WORK AROUND THE WORK
+Your team is working.
+You’re still chasing.
+
+The request is in an email. The update is in a chat. The blocker is with someone who hasn’t replied.
+
+Knowing where the work stands has become another job.
+
+Bring it into order
+A NORMAL TUESDAY, ACROSS YOUR TEAM
+EMAIL · 10:42 AM
+Re: any update on this?
+
+Looping in Finance. Who has the latest version?
+
+3 forwards · 2 attachments
+TEAM CHAT · 11:06 AM
+“I thought Legal had it.”
+
+Can someone check with Ananya?
+
+NK
+Neha · Procurement
+YOUR TO-DO LIST
+
+Follow up with Legal
+
+Get the missing invoice
+
+Ask if the vendor is approved
+
+Actual status: someone needs to ask.
+Busy people. Disconnected information.
+02
+A PROCESS FOR YOUR KIND OF WORK
+See what comes
+off your plate.
+
+Choose a team. Follow one process.
+See where agents move the work forward—and where you make the call.
+
+Legal
+Finance
+Procurement
+Operations
+Sales
+Leadership
+CONTRACT REVIEW → SIGNATURE
+The deal moves.
+You keep your standards.
+
+Draft, negotiate and approve in one document. Agents bring in the playbook, track changes and chase the right reviewers.
+
++
+One document. The whole conversation.
+Make this process yours
+/
+Aster workspace
+INTERACTIVE EXAMPLE
+Master services agreement.docx
+AN
+RS
++2
+Request received
+Playbook applied
+3
+Internal review
+4
+Ready for signature
+ASTER
+MASTER SERVICES AGREEMENT
+12. Limitation of liability
+
+12.1 Each party shall be responsible for its obligations under this Agreement.
+
+12.2 The aggregate liability of either party shall not exceed three times the annual fees the fees paid in the preceding twelve months.
+
+A
+Ananya · Legal
+
+Matches our standard position. Ready for my sign-off.
+
+Matched to your playbook · Liability cap
+Process agent
+CONTEXT, ALREADY CONNECTED
+
+Compare counterparty redlines
+
+Route liability exception to Ananya
+
+YOUR JUDGEMENT
+
+The liability position now matches your playbook. Your approval is required to move forward.
+
+Ananya · Legal
+Approve for signature
+Internal review · Waiting for a human decision
+Activity recorded
+Familiar work. An intelligent process around it.
+From one team’s SOP to a company-wide way of working.
+03
+YOUR STANDARDS, BUILT IN
+You know how it should work.
+Make that the process.
+
+Start with a proven SOP or describe your own. Set the steps, owners and approvals around the way your team actually works.
+
+START WITH AN INSTRUCTION
+Weekly team updates
+Vendor onboarding
+Collect filing inputs
+“
+
+Every Friday, collect updates from my team. Follow up on missing inputs. Send me one report with blockers and decisions to make.
+
+Try one of three example instructions.
+Process created
+Weekly team updates
+Every Friday, 10:00 AM · Team lead
+Edit
+01
+Request team updates
+AGENT
+02
+Follow up on missing inputs
+AGENT
+03
+Collate progress and blockers
+AGENT
+04
+Prepare the weekly report
+HUMAN REVIEW
+Keep the final approval with me
+The agent prepares. You decide.
+Start with one process
+Adapt the rules
+Bring your team along
+04
+FOLLOW-THROUGH ACROSS TEAMS
+A sign-off is someone
+else’s starting point.
+
+Legal agrees the terms. Procurement, Operations and Finance make them happen. Rilin keeps the responsibilities connected as work moves between teams.
+
+SIGNED
+Supplier
+agreement
+
+Aster Group × Helio
+
+A
+Approved by Ananya
+Legal · terms recorded
+3 connected responsibilities
+01
+Procurement
+02
+Operations
+03
+Finance
+NEHA · ACCOUNTABLE OWNER
+Confirm the supplier’s commitment
+
+Request the delivery schedule, confirm the nominated contact and attach the agreed purchase order.
+
+Supply agreement · Schedule A
+Ready to start
+When Operations records acceptance, Finance’s next step opens.
+Try the handoff
+Work can happen in your existing tools.
+The process keeps its context.
+05
+THE NEXT CHAPTER
+SIMULATION PREVIEW
+Before you make a move,
+see what it sets in motion.
+
+Turn company records, obligations and processes into a model you can test. Explore decisions against formalised rules and explicit assumptions.
+
+One company context.
+Many possible futures.
+Your judgement, with foresight.
+Risk cascades
+People + agents
+Tax planning
+Restructuring
+Supply dependencies
+Due diligence
+A
+Aster Group
+/
+Scenario sandbox
+ILLUSTRATIVE MODEL
+COMPANY CONTEXT
+24 contracts
+18 files
+Company memory
+Sample inputs connected
+3 CONCENTRATIONS FOUND
+01
+Supplier dependency
+42% of critical supply
+02
+Customer concentration
+31% of receivables
+03
+Shared guarantee
+2 facilities, one guarantor
+
+Delivery due in 3 days. Capacity warning received.
+
+Simulate disruption
+Scenario: missed delivery
+FOLLOW THE CONNECTED EXPOSURE
+Early warning
+CONCENTRATED DEPENDENCY
+Helio Components
+42% of critical supply
+Under observation
+TX-014
+Project North
+Installation milestone
+TX-021
+Project East
+Commissioning payment
+TX-027
+Equipment lease
+Acceptance date
+TX-032
+Project West
+Delivery-linked payment
+Project North · Operations
+Sample supply agreement · §4.2 → EPC agreement · Schedule 2
+₹30L
+connected value
+03
+Concentrations mapped
+04
+Connected transactions
+₹1.24cr
+Connected transaction value
+Illustrative exposure; not a loss estimate
+Explore the concept. These examples use fixed sample relationships and stated assumptions; they are not live NOMOS calculations.
+NOMOS
+The formal foundation behind the vision.
+
+Being designed on Lean to check the reasoning behind a result—and make the business an environment for testing decisions.
+
+06
+IN CAPABLE HANDS. UNDER YOUR CONTROL.
+Your judgement
+stays at the centre.
+
+Give agents the follow-through.
+Keep the standards, the exceptions and the decisions with the people who own them.
+
+Explore the legal workspace
+You set the boundaries.
+Define where agents can act and where a person must review. An exception should arrive with the relevant context and a clear decision to make.
+EXAMPLE APPROVAL RULE
+
+Liability cap outside playbook
+
+Human approval required
+Ananya · Legal
+The source stays with the work.
+Decisions leave a trail.
+START WITH THE WORK THAT GETS IN THE WAY.
+Offload the chaos.
+Make room for your best work.
+Find your first process
+Build with Rilin
+Order for the work.
+Room for the people.
+Product
+Simulation
+Talk to us
+© 2026 Rilin
+Concept experience · All example companies, records and outcomes are illustrative.

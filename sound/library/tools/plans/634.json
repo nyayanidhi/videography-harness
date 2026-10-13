@@ -1,0 +1,34 @@
+{
+ "src": "sound/library/mixkit/music/mixkit-634_your-breath_eugenio-mininni.mp3",
+ "out": "sound/library/edits/edit60_your-breath_mixkit-634.wav",
+ "dur": 60.0,
+ "target_lufs": -16,
+ "segments": [
+  {
+   "at": 0.524,
+   "from": 0.0,
+   "len": 47.476,
+   "fi": 0.005,
+   "fo": 0.04
+  },
+  {
+   "at": 48.0,
+   "from": 1.476,
+   "len": 4.0,
+   "fi": 0.04,
+   "fo": 0.03
+  }
+ ],
+ "ring": {
+  "at": 52.0,
+  "from": 15.476,
+  "len": 1.0,
+  "fo": 0.7,
+  "rt60": 6.0,
+  "wet_db": 3
+ },
+ "fade_end": [
+  57.0,
+  59.8
+ ]
+}

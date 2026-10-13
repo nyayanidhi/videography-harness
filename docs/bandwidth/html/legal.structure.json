@@ -1,0 +1,653 @@
+{
+ "h": 6829,
+ "sections": [
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-hero product-hero-legal-workspace",
+   "box": [
+    0,
+    0,
+    1920,
+    930
+   ],
+   "h": [
+    "H1: Room for your / legal judgement."
+   ]
+  },
+  {
+   "tag": "HEADER",
+   "id": "",
+   "cls": "site-header product-header",
+   "box": [
+    304,
+    0,
+    1312,
+    88
+   ],
+   "h": []
+  },
+  {
+   "tag": "SECTION",
+   "id": "explore",
+   "cls": "product-wide  ",
+   "box": [
+    0,
+    930,
+    1920,
+    1200
+   ],
+   "h": [
+    "H2: The whole matter. / In one place.",
+    "H3: Helio supply agreement"
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-story story-tint",
+   "box": [
+    0,
+    2130,
+    1920,
+    711
+   ],
+   "h": [
+    "H2: Your judgement today. / A better playbook tomorrow.",
+    "H3: Keep commercial exposure within a deliberate limit."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-story ",
+   "box": [
+    0,
+    2841,
+    1920,
+    682
+   ],
+   "h": [
+    "H2: The latest version. / The relevant changes."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-story story-tint",
+   "box": [
+    0,
+    3523,
+    1920,
+    730
+   ],
+   "h": [
+    "H2: Keep the review moving. / Keep the decision yours."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-wide  ",
+   "box": [
+    0,
+    4253,
+    1920,
+    988
+   ],
+   "h": [
+    "H2: From final draft / to fully executed.",
+    "H3: Ready to make it official."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-wide story-tint ",
+   "box": [
+    0,
+    5241,
+    1920,
+    771
+   ],
+   "h": [
+    "H2: A signature is also / a starting point.",
+    "H3: Bill on the agreed milestone.",
+    "H3: Know what was promised.",
+    "H3: Keep performance in view."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-cta",
+   "box": [
+    0,
+    6012,
+    1920,
+    535
+   ],
+   "h": [
+    "H2: Settle into your / best legal work."
+   ]
+  },
+  {
+   "tag": "FOOTER",
+   "id": "",
+   "cls": "product-footer",
+   "box": [
+    0,
+    6547,
+    1920,
+    282
+   ],
+   "h": []
+  }
+ ],
+ "inter": [
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "skip-link",
+   "txt": "Skip to product details",
+   "href": "#explore",
+   "state": null,
+   "box": [
+    10,
+    -63,
+    217,
+    49
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "brand",
+   "txt": "Rilin home",
+   "href": "/",
+   "state": null,
+   "box": [
+    304,
+    29,
+    97,
+    30
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "products-trigger",
+   "txt": "Product",
+   "href": null,
+   "state": "closed",
+   "box": [
+    853,
+    25,
+    77,
+    38
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "products-trigger",
+   "txt": "Industries",
+   "href": null,
+   "state": "closed",
+   "box": [
+    963,
+    25,
+    91,
+    38
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "SOP Library",
+   "href": "/sops",
+   "state": null,
+   "box": [
+    1087,
+    33,
+    80,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "nav-legal-direct",
+   "txt": "Legal Workspace",
+   "href": "/product/legal-workspace",
+   "state": null,
+   "box": [
+    1200,
+    33,
+    118,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Simulation",
+   "href": "/product/simulation",
+   "state": null,
+   "box": [
+    1351,
+    33,
+    72,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "button header-cta",
+   "txt": "Meet Rilin",
+   "href": "https://www.rilin.ai/demo",
+   "state": null,
+   "box": [
+    1477,
+    18,
+    139,
+    50
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "mobile-menu",
+   "txt": "Open navigation",
+   "href": null,
+   "state": "closed",
+   "box": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "button light",
+   "txt": "Step into the workspace",
+   "href": "https://www.rilin.ai/demo",
+   "state": null,
+   "box": [
+    320,
+    618,
+    242,
+    50
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "text-link",
+   "txt": "See it at work",
+   "href": "#explore",
+   "state": null,
+   "box": [
+    587,
+    632,
+    122,
+    22
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "switch",
+   "cls": "peer group/switch inline-flex shrink-0 items-center rounded-full border border-t",
+   "txt": "on",
+   "href": null,
+   "state": "true",
+   "box": [
+    1553,
+    209,
+    32,
+    18
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Document",
+   "href": null,
+   "state": "true",
+   "box": [
+    339,
+    1405,
+    72,
+    49
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Changes",
+   "href": null,
+   "state": "false",
+   "box": [
+    431,
+    1405,
+    62,
+    49
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Playbook",
+   "href": null,
+   "state": "false",
+   "box": [
+    513,
+    1405,
+    64,
+    49
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "History",
+   "href": null,
+   "state": "false",
+   "box": [
+    596,
+    1405,
+    49,
+    49
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "button dark",
+   "txt": "Use preferred position",
+   "href": null,
+   "state": null,
+   "box": [
+    1115,
+    1776,
+    458,
+    50
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "story-link",
+   "txt": "Build a process around your standards",
+   "href": "/product/processes",
+   "state": null,
+   "box": [
+    320,
+    2683,
+    295,
+    21
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Liability",
+   "href": null,
+   "state": "true",
+   "box": [
+    911,
+    2296,
+    52,
+    49
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Payment",
+   "href": null,
+   "state": "false",
+   "box": [
+    983,
+    2296,
+    60,
+    49
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": "tab",
+   "cls": "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1",
+   "txt": "Termination",
+   "href": null,
+   "state": "false",
+   "box": [
+    1063,
+    2296,
+    81,
+    49
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "demo-inline-action",
+   "txt": "Bring this into the matter",
+   "href": null,
+   "state": null,
+   "box": [
+    345,
+    3151,
+    658,
+    56
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "demo-inline-action",
+   "txt": "Preview the follow-up",
+   "href": null,
+   "state": null,
+   "box": [
+    917,
+    4062,
+    658,
+    56
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "button dark",
+   "txt": "Attach stamp paper",
+   "href": null,
+   "state": null,
+   "box": [
+    988,
+    4970,
+    209,
+    50
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "story-link",
+   "txt": "Follow the agreement into risk monitoring",
+   "href": "/product/risk-monitoring",
+   "state": null,
+   "box": [
+    802,
+    5879,
+    317,
+    21
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "button light",
+   "txt": "See your legal workspace",
+   "href": "https://www.rilin.ai/demo",
+   "state": null,
+   "box": [
+    320,
+    6399,
+    251,
+    50
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "text-link",
+   "txt": "Explore agentic processes",
+   "href": "/product/processes",
+   "state": null,
+   "box": [
+    601,
+    6413,
+    214,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Rilin home",
+   "href": "/",
+   "state": null,
+   "box": [
+    320,
+    6594,
+    110,
+    30
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Legal Workspace",
+   "href": "/product/legal-workspace",
+   "state": null,
+   "box": [
+    1033,
+    6594,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Processes",
+   "href": "/product/processes",
+   "state": null,
+   "box": [
+    1331,
+    6594,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Knowledge",
+   "href": "/product/knowledge",
+   "state": null,
+   "box": [
+    1033,
+    6628,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Compliance",
+   "href": "/product/compliance",
+   "state": null,
+   "box": [
+    1331,
+    6628,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Risk Monitoring",
+   "href": "/product/risk-monitoring",
+   "state": null,
+   "box": [
+    1033,
+    6662,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Simulation",
+   "href": "/product/simulation",
+   "state": null,
+   "box": [
+    1331,
+    6662,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Industries",
+   "href": "/industries",
+   "state": null,
+   "box": [
+    1033,
+    6695,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "SOP Library",
+   "href": "/sops",
+   "state": null,
+   "box": [
+    1331,
+    6695,
+    269,
+    22
+   ]
+  }
+ ]
+}

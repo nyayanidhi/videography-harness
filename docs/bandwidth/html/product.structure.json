@@ -1,0 +1,428 @@
+{
+ "h": 2855,
+ "sections": [
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-overview-hero",
+   "box": [
+    0,
+    0,
+    1920,
+    572
+   ],
+   "h": [
+    "H1: Order for the work. / Room for your judgement."
+   ]
+  },
+  {
+   "tag": "HEADER",
+   "id": "",
+   "cls": "site-header product-header",
+   "box": [
+    304,
+    0,
+    1312,
+    88
+   ],
+   "h": []
+  },
+  {
+   "tag": "SECTION",
+   "id": "products",
+   "cls": "product-overview-grid wrap",
+   "box": [
+    320,
+    572,
+    1280,
+    1438
+   ],
+   "h": [
+    "H2: Room for your legal judgement.",
+    "H2: Your standards. Work in motion.",
+    "H2: Context that stays with the company.",
+    "H2: Keep the business clear to operate.",
+    "H2: See exposure early enough to act.",
+    "H2: Explore the consequences of a decision."
+   ]
+  },
+  {
+   "tag": "SECTION",
+   "id": "",
+   "cls": "product-cta",
+   "box": [
+    0,
+    2009,
+    1920,
+    564
+   ],
+   "h": [
+    "H2: One process today. / A clearer business tomorrow."
+   ]
+  },
+  {
+   "tag": "FOOTER",
+   "id": "",
+   "cls": "product-footer",
+   "box": [
+    0,
+    2573,
+    1920,
+    282
+   ],
+   "h": []
+  }
+ ],
+ "inter": [
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "skip-link",
+   "txt": "Skip to products",
+   "href": "#products",
+   "state": null,
+   "box": [
+    10,
+    -63,
+    169,
+    49
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "brand",
+   "txt": "Rilin home",
+   "href": "/",
+   "state": null,
+   "box": [
+    304,
+    29,
+    97,
+    30
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "products-trigger",
+   "txt": "Product",
+   "href": null,
+   "state": "closed",
+   "box": [
+    853,
+    25,
+    77,
+    38
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "products-trigger",
+   "txt": "Industries",
+   "href": null,
+   "state": "closed",
+   "box": [
+    963,
+    25,
+    91,
+    38
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "SOP Library",
+   "href": "/sops",
+   "state": null,
+   "box": [
+    1087,
+    33,
+    80,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "nav-legal-direct",
+   "txt": "Legal Workspace",
+   "href": "/product/legal-workspace",
+   "state": null,
+   "box": [
+    1200,
+    33,
+    118,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Simulation",
+   "href": "/product/simulation",
+   "state": null,
+   "box": [
+    1351,
+    33,
+    72,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "button header-cta",
+   "txt": "Meet Rilin",
+   "href": "https://www.rilin.ai/demo",
+   "state": null,
+   "box": [
+    1477,
+    18,
+    139,
+    50
+   ]
+  },
+  {
+   "tag": "BUTTON",
+   "role": null,
+   "cls": "mobile-menu",
+   "txt": "Open navigation",
+   "href": null,
+   "state": "closed",
+   "box": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "product-overview-card",
+   "txt": "01 | Legal Workspace | Room for your legal judgement. |  | Draft, negotiate, review, sign ",
+   "href": "/product/legal-workspace",
+   "state": null,
+   "box": [
+    320,
+    647,
+    628,
+    391
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "product-overview-card",
+   "txt": "02 | Processes | Your standards. Work in motion. |  | Give people and agents a shared proc",
+   "href": "/product/processes",
+   "state": null,
+   "box": [
+    973,
+    647,
+    628,
+    391
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "product-overview-card",
+   "txt": "03 | Knowledge | Context that stays with the company. |  | Maintain company understanding ",
+   "href": "/product/knowledge",
+   "state": null,
+   "box": [
+    320,
+    1063,
+    628,
+    391
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "product-overview-card",
+   "txt": "04 | Compliance | Keep the business clear to operate. |  | Connect company, transaction an",
+   "href": "/product/compliance",
+   "state": null,
+   "box": [
+    973,
+    1063,
+    628,
+    391
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "product-overview-card",
+   "txt": "05 | Risk Monitoring | See exposure early enough to act. |  | See how disputes, performanc",
+   "href": "/product/risk-monitoring",
+   "state": null,
+   "box": [
+    320,
+    1479,
+    628,
+    435
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "product-overview-card",
+   "txt": "06 | Simulation | Explore the consequences of a decision. |  | Compare consequential busin",
+   "href": "/product/simulation",
+   "state": null,
+   "box": [
+    973,
+    1479,
+    628,
+    435
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "button light",
+   "txt": "Meet Rilin",
+   "href": "https://www.rilin.ai/demo",
+   "state": null,
+   "box": [
+    320,
+    2425,
+    140,
+    50
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Rilin home",
+   "href": "/",
+   "state": null,
+   "box": [
+    320,
+    2620,
+    110,
+    30
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Legal Workspace",
+   "href": "/product/legal-workspace",
+   "state": null,
+   "box": [
+    1033,
+    2620,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Processes",
+   "href": "/product/processes",
+   "state": null,
+   "box": [
+    1331,
+    2620,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Knowledge",
+   "href": "/product/knowledge",
+   "state": null,
+   "box": [
+    1033,
+    2654,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Compliance",
+   "href": "/product/compliance",
+   "state": null,
+   "box": [
+    1331,
+    2654,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Risk Monitoring",
+   "href": "/product/risk-monitoring",
+   "state": null,
+   "box": [
+    1033,
+    2688,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Simulation",
+   "href": "/product/simulation",
+   "state": null,
+   "box": [
+    1331,
+    2688,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "Industries",
+   "href": "/industries",
+   "state": null,
+   "box": [
+    1033,
+    2722,
+    269,
+    22
+   ]
+  },
+  {
+   "tag": "A",
+   "role": null,
+   "cls": "",
+   "txt": "SOP Library",
+   "href": "/sops",
+   "state": null,
+   "box": [
+    1331,
+    2722,
+    269,
+    22
+   ]
+  }
+ ]
+}
